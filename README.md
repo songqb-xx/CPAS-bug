@@ -1,6 +1,11 @@
 # CPAS-bug
 CPAS audit management information system has SQL injection vulnerability
 
+# Beijing YouDataSum Technology Co., Ltd.
+domain: http://youdatasum.com
+<img width="1474" height="844" alt="图片" src="https://github.com/user-attachments/assets/3e165cf6-1640-445a-be76-c403a26f08ef" />
+
+
 # Vulnerability code analysis
 
 com/yonyou/aco/cpas/list/web/CpasListController.java  line: 1545
